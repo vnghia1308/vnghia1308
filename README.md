@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 I'm Gay programmer
+- 🌱 My favorite languages: **NodeJS**, C#, PHP, Python, Java
+- 💬 Contact me on [Facebook](https://www.facebook.com/nghiadev/)
 <!--
 **vnghia1308/vnghia1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
