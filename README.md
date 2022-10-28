@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<!--
 - 😄 I'm Gay programmer
+-->
+- ⚡ Senior Dev of MobiFone (current), VNG (since 2020)
 - 🌱 My favorite languages: **NodeJS**, C#, PHP, Python, Java
 - 💬 Contact me on [Facebook](https://www.facebook.com/nghiadev/)
 <!--
